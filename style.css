@@ -78,7 +78,7 @@ button {
 }
 .testtesth1 {
     text-align: center;
-    margin-left: 190px;
+    margin-left: 170px;
 }
 .testh1 {
     text-align: center;
@@ -292,14 +292,14 @@ h3 {
     margin: 3px;
     margin-left: 0px;
     padding-right: 30px;
-    margin-bottom: 45%;
+    margin-bottom: 5px;
 }
 
 .pargrafinfo {
-    padding-top: 15%;
+    padding-top: 45%;
     padding-bottom: 5%;
     padding-left: 15px;
     padding-right: 30px;
-    font-size: 4vw;
+    font-size: 3vw;
 
 }
