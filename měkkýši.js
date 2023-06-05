@@ -165,7 +165,7 @@ function check(){
 	var score;
 
 	if (correct == 0) {
-		score = 2;
+		score = 1;
 	}
 
 	if (correct > 0 && correct < 21) {
@@ -173,7 +173,7 @@ function check(){
 	}
 
 	if (correct == 21) {
-		score = 0;
+		score = 1;
 	}
 
 	document.getElementById("after_submit").style.visibility = "visible";
