@@ -268,7 +268,7 @@ function check(){
   } else {
     document.quiz.question161.className = "incorrect-answer";
 }
-    if (question162 == "lase hranostaj") {
+    if (question162 == "lasice hranostaj") {
     correct++;
     document.quiz.question162.className = "correct-answer";
   } else {
